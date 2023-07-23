@@ -1,0 +1,15 @@
+.btn-width{
+    width: 100%;
+}
+.text-color{
+    color : black;
+}
+.note{
+    font-size: 13px;
+    
+}
+.notecontainer{
+    display: flex;
+    justify-content: center;
+    color: rgb(245, 236, 225);
+}

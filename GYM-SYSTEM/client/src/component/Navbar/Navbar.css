@@ -1,0 +1,27 @@
+.navbar {
+  padding: 10px 15px 10px 15px;
+}
+.background {
+  background: #0b2447;
+  color: azure;
+}
+.nav-logout {
+  cursor: pointer;
+}
+.logoImg {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+}
+.navcurv {
+  border-radius: 30px;
+}
+.positionskty {
+  position: sticky;
+  top: 0px;
+}
+.navbar-nav {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
